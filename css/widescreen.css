@@ -1,0 +1,18 @@
+/* Align icon to left */
+/* turns items into flex containers in addition to already being flex items */
+#what .items .item {
+  display: flex;
+  text-align: left;
+}
+
+/* Position icon */
+
+#what .items .item i {
+  margin-right: 1.3rem;
+  align-self: center;
+  margin-bottom: 0;
+}
+
+#contact .map {
+  flex: 2;
+}
