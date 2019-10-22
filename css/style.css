@@ -161,9 +161,9 @@ p {
   padding: 0 2rem;
   /* Overlay */
   position: absolute;
-  top: 65;
-  left: 0;
-  right: 0;
+  /* top: 65; */
+  /* left: 0;
+  right: 0; */
   /* bottom: 0; */
   background-color: rgba(0, 0, 0, 0.4);
 }
